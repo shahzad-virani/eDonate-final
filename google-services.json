@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "603652284962",
+    "firebase_url": "https://edonate1.firebaseio.com",
+    "project_id": "edonate1",
+    "storage_bucket": "edonate1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:603652284962:android:6258946f3fc20d0d",
+        "android_client_info": {
+          "package_name": "com.example.android.edonate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "603652284962-82ggklifo002qq01ahcuqku78itih50h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.android.edonate",
+            "certificate_hash": "b20c9b0b856c4cf039160a8ca0971692248aa4b0"
+          }
+        },
+        {
+          "client_id": "603652284962-tvfmthgu54ql0prjm7p53obl40p1iqqe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgvW7o409xO84mQXY6EU5bXz-MOqNiQD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "603652284962-tvfmthgu54ql0prjm7p53obl40p1iqqe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

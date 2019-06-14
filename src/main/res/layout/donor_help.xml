@@ -1,0 +1,40 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <!--
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Guidelines for Donors"
+            android:textSize="27sp"
+            android:gravity="center"
+            android:paddingBottom="10dp"
+            android:textColor="@android:color/black"
+            android:background="@color/colorPrimary"/>
+
+        <ExpandableListView
+            android:id="@+id/exp_lv"
+            android:layout_width="match_parent"
+            android:layout_height="0dp"
+            android:layout_weight="1"/>
+            -->
+
+    <Button
+        android:layout_marginTop="110dp"
+        android:layout_marginLeft="110dp"
+        android:id="@+id/button_logout"
+        android:layout_width="200dp"
+        android:layout_height="35dp"
+        android:background="@drawable/mybutton"
+        android:text="Log Out"
+        android:textAllCaps="true"
+        android:textColor="@color/primary_text"
+        android:textSize="18sp"
+        android:layout_centerHorizontal="true"
+        />
+
+
+
+    </LinearLayout>
